@@ -19,4 +19,5 @@
 * ![PXL_20250110_152218764 MP](https://github.com/user-attachments/assets/c0d78cb4-6f59-4b78-99cf-f08be13f32d2)
 
 # Software code
-
+* Freenove does have a set of good tutorial code that makes development easier. I have uploaded my python code here as a reference.
+* Note: you do need to set up your own http web service for Google Gemini or ChatGPT, I chose Gemini as it can read raw photos uploaded and provide good quality voice and picture outputs.
